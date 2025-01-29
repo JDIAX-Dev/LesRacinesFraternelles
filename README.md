@@ -1,17 +1,23 @@
 # LesRacinesFraternelles SPEEDRUN GAME TEST
-A small game developed by 3 students, puzzle-game speedrun
+A small game developed by 3 students (Satou, LittleJ & Jdiax), puzzle-game speedrun
+
 A little help : 
+
   Reload level - Y
+
   The timer starts as soon as you enter the game
+
   (game not finished, this is a pre-alpha)
+
   WR --> 04:02:590
+
   For the leaderboard, send your run at fraternalroots.game@gmail.com
 
 
 LeaderBoard : 
 
-   1. Satou --> 04:02:590
-   2. Jdiax --> 05:01:050
+   1.  Satou --> 04:02:590
+   2.  Jdiax --> 05:01:050
    3. ###
    4. ###
    5. ###
