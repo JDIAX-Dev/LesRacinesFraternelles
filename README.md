@@ -1,5 +1,5 @@
 # LesRacinesFraternelles SPEEDRUN GAME TEST
-A small game developed by 3 students (Satou, LittleJ & Jdiax), puzzle-game speedrun
+A small game developped by 3 students (Satou, LittleJ & Jdiax), puzzle-game speedrun
 
 A little help : 
 
