@@ -6,6 +6,7 @@ A little help :
   Reload level - Y
 
   The timer starts as soon as you enter the game
+  The timer ends when you hit the last barrier
 
   (game not finished, this is a pre-alpha)
 
