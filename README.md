@@ -19,7 +19,7 @@ A little help :
 LeaderBoard : 
 
    1. Satou --> 04:02:590
-   2. KomYn --> 04:50:180
+   2. KomYn --> 04:50:180 (unofficial)
    3. Jdiax --> 05:01:050
    4. ###
    5. ###
